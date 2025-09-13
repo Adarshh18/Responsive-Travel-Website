@@ -18,6 +18,7 @@ Sign Up Section – Easy sign-up call for users to get started.
 
 Modern UI/UX – Clean layout with intuitive navigation.
 
+
 🛠️ Technologies Used
 
 HTML5 – Semantic markup for structure.
@@ -37,11 +38,12 @@ JavaScript – Interactivity and dynamic components.
 ├── /images           # All images & assets
 └── README.md         # Project documentation
 
+
 🚀 Getting Started
 
 Clone the repository:
 
-git clone https://github.com/Adarshh18/responsive-travel-website.git
+git clone https://github.com/Adarshh18/Responsive-Travel-Website.git
 
 
 Open the project folder:
@@ -56,6 +58,7 @@ Simply open index.html in your browser.
 Or use Live Server in VS Code for auto-reload.
 
 
+
 📌 Future Enhancements
 
 Add a booking system with date & price filters.
@@ -65,6 +68,8 @@ Integrate Google Maps for location previews.
 Include a blog section for travel tips & guides.
 
 Connect with a backend (Node.js / PHP) to store user sign-ups.
+
+
 
 👨‍💻 Author
 
